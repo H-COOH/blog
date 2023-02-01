@@ -1,0 +1,25 @@
+remote_theme: H-COOH/theme
+
+title: Mi's Blog
+description: >-
+  欢迎访问我的个人网站，
+  祝你在这里玩得开心呀～
+baseurl: "blog"
+url: "https://h-cooh.github.io/"
+
+plugins:
+  - jekyll-feed
+
+collections:
+    category:
+        output: true
+    authors:
+        output: false
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: category
+    values:
+      layout: "category"
