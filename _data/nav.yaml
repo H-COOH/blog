@@ -1,12 +1,12 @@
 - title: 生活
   url: category/life.html
-  hue: "var(--c-themeHuePurple)"
-- title: 思考
-  url: category/think.html
-  hue: "var(--c-themeHueGreen)"
+  hue: "var(--c-themeHueOrange)"
+- title: 吐槽
+  url: category/well.html
+  hue: "var(--c-themeHueRed)"
 - title: 成长
   url: category/mine.html
   hue: "var(--c-themeHueBlue)"
 - title: 其它
-  url: category/other.html
-  hue: "var(--c-themeHueOrange)"
+  url: category/else.html
+  hue: "var(--c-themeHueGreen)"
