@@ -4,7 +4,7 @@ title: Mi's Blog
 description: >-
   欢迎访问我的个人博客，
   祝你在这里玩得开心呀～
-baseurl: "blog"
+baseurl: ""
 url: "https://h-cooh.github.io/"
 
 plugins:
