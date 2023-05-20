@@ -1,11 +1,7 @@
 remote_theme: H-COOH/theme
 
 title: Mi's Blog
-description: >-
-  欢迎访问我的个人博客，
-  祝你在这里玩得开心呀～
-baseurl: ""
-url: "https://h-cooh.github.io/"
+description: 探索世界，发现精彩，记录生活
 
 plugins:
   - jekyll-feed
